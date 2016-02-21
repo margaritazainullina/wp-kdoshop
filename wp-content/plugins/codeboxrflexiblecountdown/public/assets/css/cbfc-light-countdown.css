@@ -1,0 +1,116 @@
+.cbfc-countdown {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    padding: 0px; margin: 0px;
+    margin-bottom: 20px;
+
+}
+
+.cbfc-countdown .cbfc-number-box {
+    float: left;
+    width: 23%; margin:0 1%;
+    list-style-type: none;
+}
+
+.cbfc-cd-main-container {
+    /*margin-bottom: 20px;*/
+}
+
+.cbfc-cd-main-container .cbfc-countdown-text {
+    display: none;
+    text-align: center;
+    margin: 20px 0;
+    font-size: 25px; line-height: 25px;
+    font-weight: 100;
+}
+
+.cbfc-cd-background {
+    border: 1px solid #eaeaea;
+    background: none repeat scroll 0 0 #eaeaea;
+}
+
+.cbfc-cd-background .digit {
+    width: 50%;
+    display: inline-block;
+}
+
+.cbfc-cd-background .digit {
+    text-align: center;
+}
+
+
+.cbfc-cd-number {
+
+    position: relative;
+
+    height: 100px;
+    color: rgb(91,91,91);
+}
+
+.cbfc-cd-number .digit {
+    position: absolute;
+    font-size: 62px; line-height: 100px;
+    color: #333;
+}
+
+.cbfc-cd-number .digit:first-child {
+    left: 0;
+}
+
+.cbfc-cd-number .digit:last-child {
+    right: 0;
+}
+
+
+/********************************************
+*** Later will support font family from google font
+********************************************/
+
+.cbfc-cd-number .digit .top, .cbfc-cd-number .digit .bottom {
+    /*font-family: Lobster;*/
+}
+
+
+.cbfc-cd-number.cbfc-cd-number-dark {
+    color: rgb(230, 230, 230);
+}
+
+
+.cbfc-overlap {
+    background-color: #f5832b;
+    width: 100%;
+    padding: 3px 0;
+    text-align: center;
+    color: #ffffff;
+}
+
+@media (max-width: 480px ){
+
+    .cbfc-cd-number {
+        height: 66px;
+    }
+
+    .cbfc-cd-number .digit {
+        font-size: 32px;
+    }
+}
+
+.cbfc-light-countdowns-480 .cbfc-cd-background, .cbfc-light-countdowns-480 .lz-overlap {
+    border: none !important;
+    background: transparent !important;
+    font-size: 12px;
+}
+
+.cbfc-light-countdowns-480 .cbfc-cd-number {
+    height: 50px;
+}
+
+.cbfc-light-countdowns-480 .cbfc-cd-number .digit {
+    font-size: 32px; line-height: 50px;
+}
+
+.cbfc-light-countdowns-480 .cbfc-overlap {
+    background: transparent;
+    color: #000;
+}

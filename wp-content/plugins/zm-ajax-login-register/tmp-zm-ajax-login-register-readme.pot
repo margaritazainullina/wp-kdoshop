@@ -1,0 +1,694 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "ZM Ajax Login &amp; Register"
+msgstr ""
+
+#. Short description.
+msgid "Allows you to create a custom login and registration page or login and registration modals. Complete with AJAX verification and Facebook login support"
+msgstr ""
+
+#. Screenshot description.
+msgid "Login modal with Facebook enabled"
+msgstr ""
+
+#. Screenshot description.
+msgid "Registration modal with Facebook enabled"
+msgstr ""
+
+#. Screenshot description.
+msgid "Login page (used with shortcode)"
+msgstr ""
+
+#. Screenshot description.
+msgid "Registration page (alternate layout, used with shortcode)"
+msgstr ""
+
+#. Screenshot description.
+msgid "Registration modal (alternate style)"
+msgstr ""
+
+#. Screenshot description.
+msgid "Settings"
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Additional Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Integrations"
+msgstr ""
+
+#. Found in description header.
+msgid "Translations"
+msgstr ""
+
+#. Found in description header.
+msgid "Usage"
+msgstr ""
+
+#. Found in description header.
+msgid "Support"
+msgstr ""
+
+#. Found in description list item.
+msgid "Facebook login support"
+msgstr ""
+
+#. Found in description list item.
+msgid "Redirect users to a custom URL or page after login, such as; \"Dashboard\" or \"Welcome\""
+msgstr ""
+
+#. Found in description list item.
+msgid "AJAX verification for username and email accounts"
+msgstr ""
+
+#. Found in description list item.
+msgid "Choose between different styles: stacked (default) or wide"
+msgstr ""
+
+#. Found in description list item.
+msgid "Advanced usage includes: Assign login and register modals to menu items, support for custom CSS, several hooks are available as well"
+msgstr ""
+
+#. Found in description list item.
+msgid "Now available in Russian thanks to <a href=\"https://github.com/artbelov\">artbelov</a>, Spanish and French thanks to <a href=\"https://twitter.com/Jukd\">Thomas G</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Force user login – Create your own private site"
+msgstr ""
+
+#. Found in description list item.
+msgid "Independent Redirect – Send existing users to a \"dashboard\" page, or new users to a \"welcome\" page."
+msgstr ""
+
+#. Found in description list item.
+msgid "Free dedicated support for 1-year"
+msgstr ""
+
+#. Found in description list item.
+msgid "Additional features to come!"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/goodbye-captcha/\">Goodbye Captcha</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Albanian via <a href=\"http://www.twitter.com/shpberisha\">shpberisha</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Brazilian Portuguese via <a href=\"https://github.com/zanematthew/zm-ajax-login-register/pull/59\">PageLab Pull Request</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Chinese (front end only), via <a href=\"https://github.com/zanematthew/zm-ajax-login-register/pull/71\">Pull Request</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Croatian via Fran"
+msgstr ""
+
+#. Found in description list item.
+msgid "French via <a href=\"https://twitter.com/jukd\">@jukd</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Hebrew via <a href=\"http://www.atarimtr.co.il/\">Yehuda</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Italian via <a href=\"http://www.filippoaceto.it/\">@FilippoAceto</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Polish via <a href=\"http://www.couponmachine.in\">Abdul</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Persian via <a href=\"https://www.facebook.com/theme20\">Behzad</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Romanian via <a href=\"http://www.vtube.ro/\">Sandu</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Russian (Russian) via <a href=\"https://github.com/artbelov\">artbelov</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Russian (Ukraine)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Scottish Gaelic via Steven Kellow"
+msgstr ""
+
+#. Found in description list item.
+msgid "Serbian via <a href=\"http://firstsiteguide.com/\">ogi</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Spanish via <a href=\"http://profiles.wordpress.org/dvk/\">dvk</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Send us a <a href=\"http://twitter.com/zanematthew\">tweet</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Submit a Pull Request via <a href=\"http://github.com/zanematthew/zm-ajax-login-register\">GitHub</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Direct <a href=\"http://zanematthew.com/contact\">contact</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create a page"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add the following shortcode <code>[ajax_login]</code> or <code>[ajax_register]</code>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Publish the page"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create a Facebook App"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add your Facebook App ID"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add the URL your Facebook App is associated with"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create a menu item; such as \"login\" you can set the URL to # if need be"
+msgstr ""
+
+#. Found in description list item.
+msgid "Assign a unique class name to the menu item. If you do not see the \"class name section\", click on the \"Screen options\" in the upper corner and check the box for \"CSS Classes\""
+msgstr ""
+
+#. Found in description list item.
+msgid "Copy/paste the class name you just assigned to the menu item"
+msgstr ""
+
+#. Found in description list item.
+msgid "Save the changes for the new menu item"
+msgstr ""
+
+#. Found in description list item.
+msgid "Visit the settings page from the WordPress Admin (Settings --&gt; Ajax Login &amp; Register)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Paste the CSS class name in the appropriate field, either \"Login Handle\" or \"Register Handle\""
+msgstr ""
+
+#. Found in description list item.
+msgid "Save the settings"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://support.zanematthew.com/forum/zm-ajax-login-register/\">Dedicated Support Forum</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://github.com/zanematthew/zm-ajax-login-register\">GitHub Repository</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "With ZM Ajax Login &amp; Register, you can create a custom login and registration page. No need for any custom post types, just create a normal WordPress page, add your own custom logo, text, and use the following shortcode <code>[ajax_login]</code>, <code>[ajax_register]</code>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "From the settings you can assign login and register modal boxes to menu items, and add a redirect URL. By assigning the login and register modals to menu items users will be able to click menu items, will display a single login or register form in a modal without any post content. Once the users login they can be redirected to a custom page, for example: \"dashboard\", or \"welcome\"."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Now your visitors can login or register from the page you've set-up."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Each form has pre-set styling options and uses AJAX. From the settings you can choose either; stacked (default) or wide styling. Additional styling you can be achieved by adding your custom CSS or using one of the available hooks.\n"
+"Feel free to contact us and will add any additional hooks you need. The forms use AJAX to verify that the username and email are valid and are not already in use."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you've enabled the Facebook login or register, from your settings, the Facebook button will display in the form. Each user that logins with Facebook will be register as a \"subscriber\" and their Facebook profile picture will be used as their avatar."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Interested in more features? View our <a href=\"http://zanematthew.com/products/zm-ajax-login-register-pro/\">Pro Version</a>, which includes the following:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "ZM AJAX Login Register works well with the following plugins"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "ZM AJAX Login &amp; Register is available in the following languages. Thanks to the respective contributors:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Interested in contributing a translation? Please reach out to us via:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<em>Note your site will need to be open to registration.</em>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Shortcode</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The following implies for creating a login or register page."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Facebook Integration</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Additionally we've created <a href=\"http://zanematthew.com/ajax-login-register-help-videos/\">AJAX Login &amp; Register WordPress Plugin help videos</a> to aid in the process"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Dialogs/Modals</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<em>Note your page must support custom menus</em>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<em>Additionally you can assign a URL to a page the user is redirected to once logged in. The default is the site home page.</em>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Please use the following resources for support."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Install the plugin via WordPress or download and upload the plugin to the <code>/wp-content/plugins/</code>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Create a page called \"login\" or \"register\""
+msgstr ""
+
+#. Found in installation list item.
+msgid "Add the shortcode <code>[ajax_login]</code> or <code>[ajax_register]</code> (make sure your site is set to \"anyone can register\") to any post or page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adding Swedish translation, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/123\">#123</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Fixed issue where additional styling (textarea CSS) did not show, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/124\">#124</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adding Polish translation, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/125\">#125</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Settings page is now tabbed based."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Settings are now optimized."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Clicking outside of a dialog now closes the dialog"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation: Adding Ukrainian"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation: Adding simplified Chinese <a href=\"https://github.com/zanematthew/zm-ajax-login-register/pull/104\">via Pull request</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Facebook Avatar support <a href=\"https://github.com/zanematthew/zm-ajax-login-register/pull/109\">pull #109</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: New (translatable) Facebook login button"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Utilizing less user meta <a href=\"https://github.com/zanematthew/zm-ajax-login-register/pull/107\">pull #107</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security fix to prevent a local file inclusion vulnerability, and XSS attacks."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Maintenance: Removed deprecated function, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/103\">#103</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Maintenance: Removing unused options, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/53\">#53</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation: Added Romanian translation via (Dumitru)[http://www.vtube.ro], <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/100\">#100</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation: Added Italian translation via Francesco D'Alia, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/99\">#99</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation: Adding German translation, via Jonas Meier"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Disabled global AJAX callbacks, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/98\">#98</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Add new setting to pre-load dialog boxes, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/80\">#80</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Adding placeholder values for front end forms, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/88\">88</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatibility: Adding better support for Limit Login Attempts, and other plugins that interact with the login, register process, [#77](https://github.com/zanematthew/zm-"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatibility: Removed the not needed Facebook meta og title tag, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/89\">#89</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Disabled auto-complete for login and password field, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/97\">#97</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Better sanitizing of Facebook App ID, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/96\">#96</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Better handling of default redirect, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/95\">#95</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Fixed bug that prevented default new user notices from being sent, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/92\">#92</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Allowing for case sensitive passwords, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/82\">#82</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Addressed issue with duplicate HTML IDs, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/14\">#14</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Fixing broken link, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/66\">#66</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Close text in modals is now translation ready, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/62\">#62</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Fixing PHP Strict Standards issue, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/56\">#56</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Name spacing classes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Various UI improvements, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/pull/58\">#58</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Facebook Developer and support links open in new window, updated support link"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Adding plugin notices, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/68\">#68</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Updated various parts of the plugin description, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/70\">#70</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation: Adding Serbian translation via <a href=\"http://firstsiteguide.com/\">ogi</a>, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/63\">#63</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation: Adding Albanian translation via <a href=\"http://www.twitter.com/shpberisha\">shpberisha</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation: Updating Russian translation via <a href=\"https://github.com/artbelov\">artbelov</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation: Adding Brazilian Portuguese"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation: Adding Persian language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation: Adding Croatian"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation: Adding traditional Chinese (front end only), via <a href=\"https://github.com/zanematthew/zm-ajax-login-register/pull/71\">Pull Request</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Added \"usage\" section to the settings page, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/21\">#21</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Added Facebook Login instructions, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/51\">#51</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Improved Facebook Login set-up by updating to v2.0 SDK, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/50\">#50</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Facebook Login with phone number is now supported, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/52\">#52</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Facebook Login now saves; first name, last name, and Facebook URL with the user profile, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/50\">#50</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Facebook OG tags should no longer be duplicate, they can be left blank if another plugin is already implementing them <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/42\">#42</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: New users can now link to the Registration form from the Login form and existing users can link from the Registration form to the Login form, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/16\">#16</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Improved user registration interaction, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/44\">#44</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Improved support for Login and Register dialogs on mobile devices, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/46\">46</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Fixing bug were some users reported user name existed with Facebook Login, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/48\">#48</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Dialog/Modal is now closed if the user scrolls, issue <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/34\">#34</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Dialog/Modal is no longer draggable, issue <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/35\">#35</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: French translation issue <a href=\"https://github.com/zanematthew/zm-ajax-login-register/pull/33\">#33</a> Thanks too <a href=\"https://twitter.com/jukd\">@jukd</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Addressed compatibility issues with Easy-to-use issue <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/38\">#38</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug: Facebook Meta Tags issue <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/41\">#41</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Added Spanish translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Multi-Language Support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Russian translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Created .POT file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "When Login modal is used the Login link changes text to say \"Logout\" once the user is logged in, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/9\">#9</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removing duplicate IDs <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/14\">#14</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localizing JS, <a href=\"#13\">https://github.com/zanematthew/zm-ajax-login-register/issues/13</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixing issue where users could not register when the modal and shortcode was in use at the same time, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/11\">#11</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Fixed issue where Facebook login did not work on the registration page, <a href=\"https://github.com/zanematthew/zm-ajax-login-register/issues/12\">#12</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved <code>readme.txt</code>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Added WordPress networking support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Fixing issue when Facebook login did not work with latest WordPress"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Shortcode now returns HTML rather than printing it"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security: Enhanced security for credentials when creating Facebook users"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added setting to disable/enable \"keep me logged in\" checkbox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added filter <code>zm_ajax_login_redirect</code>, which allows developers to change the redirect url."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "3.6 Styling - z-index issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "3.6 Styling - Close button no longer has default focus and default styling"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I disable registration?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why does the Facebook button not load?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Facebook login isn't working?"
+msgstr ""
+
+#. Found in faq header.
+msgid "I've added the shortcode, yet I see a message that says \"Registration is currently closed.\"?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Log into your WordPress admin"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Click on \"Settings\""
+msgstr ""
+
+#. Found in faq list item.
+msgid "Click on \"General\""
+msgstr ""
+
+#. Found in faq list item.
+msgid "Click the checkbox for \"Anyone can register\""
+msgstr ""
+
+#. Found in faq list item.
+msgid "Click \"Save\""
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "From the WordPress admin click on Settings --&gt; General and uncheck \"Anyone can register\""
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Ensure that you have the setting \"Enable Facebook Login\" checked."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Please check your settings in WordPress Admin -&gt; Settings -&gt; AJax Login &amp; Register with the settings found\n"
+"here: https://developers.facebook.com/apps/YOUR_APP_ID/summary"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Additionally you can view our <a href=\"http://zanematthew.com/ajax-login-register-help-videos/\">AJAX Login &amp; Register WordPress Plugin help videos</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Your seeing this message because your site is not open for registration. In order to open your site for registration, do the following:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<em>Note the following does <strong>not</strong> apply to WordPress Networking. For WordPress Networking please consult your Network admin.</em>"
+msgstr ""

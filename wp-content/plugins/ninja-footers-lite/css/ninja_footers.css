@@ -1,0 +1,56 @@
+.js .postbox .handlediv, .js .postbox .hndle{
+    cursor:default;
+}
+
+.js .meta-box-sortables .postbox .handlediv:before {
+	content:none;
+}
+
+#nf-settings {
+	display: none;
+}
+
+#nf-settings-title {
+	cursor: pointer;
+}
+
+#nf-settings-title:hover {
+	color:red;
+}
+
+.nf-settings-content {
+	background:#fff;
+	border:1px solid #eee;
+}
+
+.nf-settings-content h3{
+	border-bottom:1px solid #eee;
+	padding:0 0 12px 12px;
+}
+
+.nf-settings-content .form-table {
+	margin-left:12px;
+}
+
+button#update_settings {
+	margin:0 0 12px 12px;
+}
+
+.nf-settings-content #specific_pages{
+	display:inline-block;
+	vertical-align:top;
+	margin-right:20px;
+}
+
+.nf-settings-content #select_pages{
+	display:inline-block;
+	margin-top:-1px;
+}
+.nf-settings-content #select_pages .pagechecklist{
+	margin:0;
+}
+
+.nf-settings-content input#priority {
+	width:50px;
+}
+

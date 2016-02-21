@@ -1,0 +1,44 @@
+/*tabbed metabox */
+
+ul.footer-putter-metabox-tabs { display: inline-block; margin:0 0 -4px; padding: 0; color: #000000;}
+ul.footer-putter-metabox-tabs li {list-style: none; display: inline; font-size: 11px; }
+ul.footer-putter-metabox-tabs li.tab a { 
+  text-decoration: none; 
+  border-top: 1px #AAAAAA solid;
+  border-left: 1px #AAAAAA solid;
+  border-right: 1px #AAAAAA solid;
+}
+ul.footer-putter-metabox-tabs li.tab a.active { 
+  color: #000000;
+  background-color: #CCCCCC;
+  border-bottom: none;  
+}
+ul.footer-putter-metabox-tabs li.link a:hover { text-decoration: underline; }
+ul.footer-putter-metabox-tabs li.tab.hidden { display: none; background-color: gray}
+ul.footer-putter-metabox-tabs li.tab a.has_error { background-color: red; color: white; }
+ul.footer-putter-metabox-tabs li a:focus { outline: none; box-shadow:none; }
+ul.footer-putter-metabox-tabs li.tab a { display: block; float: left; margin-right: 4px; padding: 5px 12px;
+	font-weight: bold; text-decoration: none; zoom: 1; outline: none;
+	border-radius: 2px 2px 0 0; -webkit-border-radius: 2px 2px 0 0; -moz-border-radius: 2px 2px 0 0; 
+	background-color: #E8E8E8; color: #A8A8A8 ; 
+}
+
+
+ul.footer-putter-metabox-tabs li.tab a:hover { 
+   color: #000000;
+}
+.footer-putter-metabox .metabox-content {
+	background: url(images/icon-32.png) right bottom no-repeat,  linear-gradient(to bottom, #CCCCCC,#EEEEEE); 
+	min-height: 60px;
+	padding-bottom:50px;
+  border: 1px #AAAAAA solid;	
+}
+
+.footer-putter-metabox div.tab-content { 
+	padding: 10px 15px; 
+	opacity: 90%;
+}
+
+.footer-putter-metabox .form-table th, .footer-putter-metabox .form-table td {
+    padding: 5px;
+}

@@ -1,0 +1,135 @@
+/*===========================admin style START============================*/
+.netgo-countdown-post-setting .form-table tr {
+    background: #fff none repeat scroll 0 0;
+    display: block;
+    float: none;
+    margin: 0 0 0px;
+    padding: 0 25px;
+    position: relative;
+}
+
+
+#countdownSettingForm h2  ,.netgo-countdown-post-setting h2{
+    background: #b7b7b7 none repeat scroll 0 0;
+    border-radius: 4px 4px 0 0;
+    box-shadow: 0 0 13px 0 #999 inset;
+    color: #fff;
+    font-size: 20px;
+    padding: 6px 13px;
+}
+
+.netgo-countdown-post-setting .form-table {
+    margin-top: 0px;
+}
+
+.netgo-countdown-post-setting .form-table tr p {
+    width: 80%;
+}
+
+.netgo-countdown-post-setting .form-table tr p.about-title {
+    color: #000;
+    font-weight: 700;
+    padding: 10px 0 0;
+}
+
+.netgo-countdown-post-setting .form-table tr p a {
+    color: #000;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.added-success {
+    background-color: #fff;
+    border-left: 4px solid #7ad03a;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+    margin-top: 8px;
+    padding: 1px 12px;
+    width: 95.8%;
+}
+
+#countdownSettingForm .form-table{
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+	
+}
+/*===========================admin style END============================*/
+
+
+
+
+/*===========================8-Sept-2015-admin style Start============================*/
+
+
+.hasDatepicker {
+    background: rgba(0, 0, 0, 0) url("calender.png") no-repeat scroll right center;
+    float: right;
+    width: 77%;
+}
+
+.scwf-select-admin {
+    float: right;
+    width: 77%;
+}
+
+
+.label-wrap::after, .label-wrap::before {
+    clear: both;
+    content: "";
+    display: block;
+    overflow: hidden;
+}
+
+.label-wrap select, .label-wrap input {
+    float: right;
+    width: 78%;
+}
+
+
+.label-wrap label {
+    float: left;
+}
+
+.label-wrap {
+    margin: 7px 0 0;
+}
+
+.scwf-admin-table tbody tr td {
+    border-bottom: 1px solid #d1d1d1;
+    border-right: 1px solid #d1d1d1;
+}
+
+.scwf-admin-table  thead tr th {
+    color: #32373c;
+    padding: 8px 10px !important;
+}
+
+.scwf-admin-table .date.column-date abbr {
+    outline: medium none;
+    text-decoration: none;
+}
+
+
+/*===========================8-Sept-2015-admin style Close============================*/
+
+
+
+
+
+
+/*===========================9-Sept-2015-admin style Start============================*/
+
+
+table.scwf-admin-table .column-name {
+    width: 63% !important;
+}
+
+
+.pagination { clear:both; padding:20px 0; position:relative; font-size:11px; line-height:13px; } .pagination span, .pagination a { display:block; float:left; margin: 2px 2px 2px 0; padding:6px 9px 5px 9px; text-decoration:none; width:auto; color:#fff; background: #b7b7b7; } .pagination a:hover{ color:#fff; background: #3279BB; } .pagination .current{ padding:6px 9px 5px 9px; background: #000; color:#fff; } 
+
+table.scwf-admin-table .column-thumb {
+    text-align: center;
+    white-space: nowrap;
+    width: auto !important;
+}
+
+
+/*===========================9-Sept-2015-admin style Close============================*/

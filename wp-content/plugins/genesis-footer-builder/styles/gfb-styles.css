@@ -1,0 +1,160 @@
+@charset "UTF-8";
+/**
+ *
+ *	Admin page styles for the plugin
+ *
+ *	@since 1.0
+ *
+ **/
+ 
+
+.gfb-inner {
+	padding-bottom: 20px;
+	border-bottom: 1px solid #f1f1f1;
+}
+ 
+ .gfb-layout {
+	width: 100%;
+}
+ 
+ .gfb-layout .field-label {
+	width: 40%;
+}
+
+.gfb-def-list dd {
+	margin-left: 5px;
+}
+
+.gfb-def-list dt,
+.gfb-def-list dd {
+	display: inline-block;
+	margin-bottom: 1em;
+}
+
+.gfb-desc {
+	font-style: italic;
+}
+
+.gfb-highlight {
+	background: #e4f2fd;
+	padding: 10px;
+}
+
+.gfb-example {
+	margin: 5px 0;
+}
+
+.genesis_page_genesis-footer-builder .metabox-holder,
+.genesis_page_genesis-footer-builder .genesis-metaboxes {
+	position: relative;
+}
+
+.genesis_page_genesis-footer-builder .genesis-metaboxes {
+	max-width: 690px;
+}
+
+.genesis_page_genesis-footer-builder #column2-sortables {
+	position: absolute;
+	left: 750px;
+	top: 10px;
+	max-width: 300px;
+}
+
+.genesis_page_genesis-footer-builder h2.hndle {
+	float: none;
+}
+
+.gfb-lander-banner {
+	position: absolute;
+	left: 750px;
+	top: 223px;
+	max-width: 300px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+}
+
+.gfb-lander-banner h3 {
+	line-height: 1.4;
+	margin: 0;
+	padding: 8px 12px;
+	font-size: 14px;
+	background-color: #ffffff;
+}
+
+#gfb-sb-showcase {
+	margin-top: 325px;
+}
+
+.gfb-sb-creds {
+	border-top: 1px solid #bfbfbf;
+	padding: 10px 0 0;
+	margin-top: 10px;
+}
+
+#tab-panel-gfb-ht-shortcodes dt {
+	font-weight: bold;
+}
+
+#tab-panel-gfb-ht-shortcodes dd {
+	margin-left: 15px;
+}
+
+.one-half {
+	float: left;
+	margin-left: 2.564102564102564%;
+	width: 48.717948717948715%;
+}
+
+.first {
+	margin-left: 0;
+}
+
+.clearfix {
+	display: block;
+	clear: both;
+}
+
+img {
+	max-width: 100%;
+	display: block;
+}
+
+.gfb-showcase a {
+	display: block;
+	text-align: center;
+	text-decoration: none;
+}
+
+.gfb-showcase .showcase-all {
+	margin-top: 25px;
+	margin-bottom: 15px;
+}
+
+.gfb-showcase .showcase-all a {
+	background-color: #eeeeee;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+	display: block;
+	padding: 0.85em 0.618em;
+}
+
+@media only screen and (max-width: 1025px) {
+	.genesis_page_genesis-footer-builder #column2-sortables{
+		position: relative;
+		left: 0;
+		top: 0;
+		max-width: unset;
+	}
+	
+	.gfb-lander-banner {
+		display: inline-block;
+		left: 0;
+		position: relative;
+		width: 100%;
+		top: 0;
+		max-width: 600px;
+		margin-bottom: 30px;
+	}
+	
+	#gfb-sb-showcase {
+		margin-top: 0;
+	}	
+}

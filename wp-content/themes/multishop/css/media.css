@@ -1,0 +1,365 @@
+@media screen and (max-width:1200px) {
+.multishop-container {
+	width: 95%;
+}
+}
+@media screen and (max-width:1024px) {
+.header-navbar .header-nav-ul li a {
+	padding-left: 30px;
+}
+
+.footer-icon ul, .footer-post ul, .footer-post {
+	margin-left: 0;
+	padding: 0;
+}
+}
+@media screen and (max-width:992px) {
+    .main-sidebar{
+        margin-top: 25px;
+        margin-bottom: 25px;    
+    }
+.footer-post ul .footer-post {
+	float: none;
+}
+.product-details{
+    margin-top: 25px;
+}
+}
+@media screen and (max-width:767px) {
+.header-cart {
+	margin: 15px 0;
+}
+.product-title {
+	font-size: 18px;
+}
+#commentform input {
+/*	width: 100%; */
+}
+.product-tabs {
+	margin-bottom: 20px;
+}
+.single-product .product-images > img {
+	margin-bottom: 15px;
+}
+.header-navigation {
+	border: 2px solid #e4e5e7;
+	border-radius: 5px;
+}
+.navbar-toggle .icon-bar {
+	background-color: #000;
+}
+.navbar-collapse {
+	margin-top: 0px;
+	overflow-y: visible !important;
+	float: none !important;
+}
+.social-icon li a {
+	float: none;
+}
+.multishop-menu ul li a:hover, .multishop-menu ul li a:focus, .multishop-menu ul li a:active {
+	background-color: #C80000;
+	color: #C80000 !important;
+}
+.multishop-menu li:hover > a {
+	background: none;
+}
+.multishop-menu li ul li {
+	border-bottom: none;
+	margin-left: 25px;
+}
+.navbar-collapse ul ul li a {
+	padding: 0px !important;
+}
+/***** dropdown menu ******/
+#menu-trigger {
+	cursor: pointer;
+	display: block;
+	height: 40px;
+}
+.multishop-menu:after {
+	content: '';
+	position: absolute;
+	left: 25px;
+	top: -8px;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+	border-bottom: 8px solid #fff;
+}
+.multishop-menu a:hover, .multishop-menu a:focus {
+	color: #C80000 !important;
+	background: none !important;
+}
+.multishop-menu li:hover > a {
+	color: #C80000;
+	text-decoration: none;
+}
+.multishop-menu ul {
+	position: static;
+	visibility: visible;
+	opacity: 1;
+	margin: 0;
+	background: none;
+	border: none;
+	padding: 0;
+}
+.multishop-menu ul ul {
+	margin: 0 0 0 20px !important;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+.multishop-menu li {
+	position: static;
+	display: block;
+	float: none;
+	border: 0;
+	margin: 0px;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	width: 85%;
+	text-align: left;
+}
+.multishop-menu ul li {
+	margin-left: 20px;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+.multishop-menu a {
+	display: block;
+	float: none;
+	padding: 0px 15px !important;
+	color: rgb(24, 24, 24);
+}
+.multishop-menu a:hover, .multishop-menu a:focus {
+	color: #fafafa;
+}
+.multishop-menu ul a {
+	padding: 0;
+	width: auto;
+}
+.multishop-menu ul a:hover {
+	background: none;
+}
+.multishop-menu ul li:first-child a:after, .multishop-menu ul ul li:first-child a:after {
+	border: 0;
+}
+.multishop-menu li {
+	float: left !important;
+	position: relative;
+}
+.multishop-menu ul li a {
+	text-align: left;
+}
+.navbar-collapse ul ul li a {
+	color: #777777 !important;
+}
+.multishop-menu ul li {
+	background: none;
+}
+.multishop-menu li> a {
+	color: #777777;
+	border-bottom: medium none !important;
+}
+.multishop-menu li> a:hover {
+	color: #C80000;
+	border-bottom: none;
+}
+.header-navigation {
+	width: 100%;
+}
+}
+@media screen and (max-width:640px) {
+.btn_flt {
+	margin-bottom: 10px;
+}
+}
+@media screen and (min-width:600px) and (max-width:767px) {
+.resp-grid {
+	width: 60%;
+	margin: 15px auto;
+}
+}
+@media screen and (max-width:767px) {
+.nav-dropdowen {
+	text-align: center;
+	margin-left: 15px;
+}
+.heder-logo img {
+	display: inline;
+}
+.heder-logo {
+	text-align: center;
+	margin-bottom: 20px;
+}
+.footer-post {
+	padding: 0;
+}
+.footer-post ul {
+	margin-left: 0;
+}
+.footer-post ul h3 {
+	margin-bottom: 5px;
+	margin-top: 40px;
+}
+.resp-padding {
+	margin: 15px 0;
+}
+.foot-copy-right {
+	text-align: center;
+	margin-bottom: 10px;
+}
+.header-nav-ul li .nav-dropdowen {
+	left: 180px;
+}
+.input-row {
+	msrgin-left: 0;
+	margin-right: 0;
+}
+.site-title-border {
+	margin-bottom: 20px;
+}
+.header-login {
+	text-align: center;
+}
+.site-title {
+	display: inline-table;
+	width: 100%;
+}
+.site-breadcumb {
+	margin: 10px 0 0;
+}
+.social-icon ul {
+	text-align: center;
+}
+.social-icon ul {
+	text-align: center;
+}
+}
+@media screen and (max-width:480px) {
+.site-title {
+	display: inline-table;
+	width: 100%;
+}
+.site-breadcumb {
+	margin: 10px 0 0;
+}
+.header-login > p {
+	margin: 0;
+}
+.blog-image img {
+	max-width: 100%;
+	margin-bottom: 15px;
+}
+.blog-image {
+	float: none;
+	margin-right: 0;
+}
+.main-sidebar {
+	padding-right: 15px !important;
+}
+.blog-body {
+	width: 100%;
+	margin-top: 0px;
+	float: left;
+	padding-left: 0px;
+}
+.header-login {
+	text-align: center;
+}
+.header-right {
+	float: none;
+}
+.comment-reply-title {
+	font-size: 15px;
+}
+.woocommerce table.shop_table th {
+	padding: 9px 11px;
+}
+.woocommerce table.shop_table td {
+	padding: 6px 0;
+}
+.woocommerce table.shop_table {
+	font-size: 10px;
+}
+.woocommerce .cart-collaterals .cart_totals {
+	width: 100%;
+}
+}
+ @media screen and (min-width:768px) and (max-width:1024px) {
+.header-login {
+	float: left;
+	text-align: left;
+}
+.heder-logo {
+	margin-bottom: 20px;
+	text-align: center;
+}
+header {
+	margin-top: 5px;
+}
+.header-navigation {
+	padding-bottom: 28px;
+	margin-bottom: 20px;
+}
+.site-title {
+	display: inline-table;
+	width: 100%;
+}
+.site-breadcumb {
+	margin: 10px 0 0;
+}
+.main-sidebar {
+	padding-right: 15px !important;
+}
+.resp-padding {
+	margin: 0px;
+}
+.multishop-home-section p {
+	font-size: 15px;
+}
+.multishop-home-section h2 {
+	font-size: 20px;
+}
+.ImageWrapper .StyleH {
+	top: 60px;
+}
+.foot-copy-right {
+	text-align: left;
+	float: left;
+}
+.social-icon ul {
+	text-align: right;
+}
+}
+@media screen and (min-width:1024px) and (max-width:1250px) {
+}
+@media screen and (min-width:768px) and (max-width:1250px) {
+.multishop-menu ul ul {
+	left: 65%;
+	top: 34px;
+}
+}
+@media screen and (min-width:768px) and (max-width:991px) {
+.header-navbar .header-nav-ul li a {
+	padding-left: 25px;
+}
+}
+@media screen and (min-width:568px) and (max-width:600px) {
+.blog-body {
+	width: 100%;
+	margin-top: 25px;
+	float: left;
+}
+}
+@media screen and (min-width:481px) and (max-width:685px) {
+.header-login {
+	float: left;
+	text-align: left;
+}
+}
+@media screen and (max-width:380px) {
+}
+@media screen and (max-width:320px) {
+}

@@ -1,0 +1,155 @@
+
+/*******************************************
+** Circular Countdown
+*******************************************/
+
+.cbfc-circular-countdown-container {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    transform: translateY(-50%);
+
+}
+.cbfc-circular-countdown-container-480{
+
+
+}
+
+.cbfc-circular-countdown-container-480 .cbfc-circular-clock-item{
+    margin-bottom: 40px;
+}
+
+.cbfc-circular-countdown-container .cbfc-circular-cbfc-clock-container {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+.cbfc-circular-countdown-container .cbfc-circular-clock-item {
+    width: 23%;
+    padding: 1%;
+    float: left;
+
+}
+
+.cbfc-circular-clock-item .cbfc-circular-inner {
+    height: 0px;
+    padding-bottom: 100%;
+    position: relative;
+    width: 100%;
+}
+
+.cbfc-circular-clock-canvas {
+    background-color: #9c9c9c;
+    border-radius: 50%;
+    height: 0px;
+    padding-bottom: 100%;
+}
+.cbfc-circular-text {
+    color: #fff;
+    margin-top: -25px;
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    width: 100%;
+
+
+}
+
+.cbfc-circular-text .cbfc-circular-val {
+    margin-bottom: 0;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.cbfc-circular-text .cbfc-circular-type-time {
+    /*font-size: 50%;*/
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 10px;
+}
+
+/*
+.cbfc-light-countdowns-480 .cbfc-overlap {
+    color: #333;
+}
+*/
+.cbfc-circular-countdown-container-480 .cbfc-circular-text .cbfc-circular-val {
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 10px;
+}
+
+.cbfc-circular-countdown-container-480 .cbfc-circular-text .cbfc-circular-type-time {
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 37px;
+    text-transform: lowercase;
+}
+
+/*used for widget wrapping*/
+.codeboxrflexiblecountdown-widget{
+
+}
+
+/*
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .cbfc-circular-clock-item {
+        margin-bottom: 30px;
+    }
+
+    .cbfc-circular-text .cbfc-circular-type-time {
+        font-size: 15px;
+        line-height: 20px;
+    }
+}
+
+@media (max-width: 767px) {
+
+    .cbfc-circular-text {
+        top: 45%;
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .cbfc-circular-countdown-container-480 .cbfc-circular-text .cbfc-circular-val {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .cbfc-circular-countdown-container-480 .cbfc-circular-text .cbfc-circular-type-time {
+        font-size: 20px ;
+        line-height: 25px;
+        margin-top: 30px;
+    }
+}
+*/
+
+
+/*
+@media (max-width: 480px) {
+
+    .cbfc-circular-countdown-container-480 .cbfc-circular-text {
+        top: 45%;
+    }
+
+    .cbfc-circular-text .cbfc-circular-val {
+        margin-top: 10px;
+    }
+
+    .cbfc-circular-text .cbfc-circular-type-time {
+    }
+
+    .cbfc-circular-countdown-container-480 .cbfc-circular-text .cbfc-circular-type-time {
+        font-size: 12px;
+        line-height: 17px;
+        margin-top: 20px;
+    }
+}
+*/
+
+/*******************************************
+** End Circular Countdown
+*******************************************/

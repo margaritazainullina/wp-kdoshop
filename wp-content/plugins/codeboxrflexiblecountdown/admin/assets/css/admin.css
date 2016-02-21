@@ -1,0 +1,18 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+#wpbody-content .metabox-holder-cbfc{
+    padding-top: 0px;
+    margin-top: -3px;
+}
+
+h2.nav-tab-wrapper-cbfc .nav-tab-active,h2.nav-tab-wrapper-cbfc .nav-tab-active:hover{
+    background: #fff;
+}
+
+#poststuff h2.nav-tab-wrapper-cbfc{
+    margin: 0 auto; border-bottom:0px;
+}
+
+.cbfcgroup{
+    padding:10px;
+}

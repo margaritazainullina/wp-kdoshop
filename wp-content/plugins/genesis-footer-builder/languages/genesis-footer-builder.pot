@@ -1,0 +1,379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Genesis Footer Builder\n"
+"POT-Creation-Date: 2015-10-28 10:18+0530\n"
+"PO-Revision-Date: 2015-10-28 10:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: Binary Turf <tech@binaryturf.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/gfb-admin.php:10
+msgid "genesis"
+msgstr ""
+
+#: admin/gfb-admin.php:11
+msgid "Genesis Footer Builder"
+msgstr ""
+
+#: admin/gfb-admin.php:12
+msgid "Footer Builder"
+msgstr ""
+
+#: admin/gfb-admin.php:18
+msgid "Save Settings"
+msgstr ""
+
+#: admin/gfb-admin.php:19
+msgid "Reset Settings"
+msgstr ""
+
+#: admin/gfb-admin.php:44
+msgid ""
+"Genesis Footer Builder allows you to customize the site footer just as you "
+"want. You can configure the options and go with the plugin default copyright "
+"message or you can completely customize the copyright text."
+msgstr ""
+
+#: admin/gfb-admin.php:44
+msgid "Genesis Footer Builder allows you to:"
+msgstr ""
+
+#: admin/gfb-admin.php:44
+msgid ""
+"Specify custom brand name for use in the footer credits, which otherwise "
+"defaults to the site title."
+msgstr ""
+
+#: admin/gfb-admin.php:44
+msgid ""
+"Specify the copyright year or duration to be included in the copyright "
+"notice. Defaults to current year."
+msgstr ""
+
+#: admin/gfb-admin.php:44
+#, php-format
+msgid ""
+"Select and set %sPrivacy Policy%s and %sDisclaimer%s pages from the dropdown "
+"for use in the footer information."
+msgstr ""
+
+#: admin/gfb-admin.php:44
+msgid "Set-up and display Genesis affiliate link in the footer credits text."
+msgstr ""
+
+#: admin/gfb-admin.php:44
+msgid ""
+"Customize the footer credits text completely (in case the plugin's default "
+"credits text doesn't work for you)."
+msgstr ""
+
+#: admin/gfb-admin.php:44
+msgid "Set-up and display a footer menu on the site."
+msgstr ""
+
+#: admin/gfb-admin.php:52
+msgid "Genesis Footer Builder &mdash; Shortcode Reference"
+msgstr ""
+
+#: admin/gfb-admin.php:52
+#, php-format
+msgid ""
+"Genesis Footer Builder offers several shortcodes for customizing footer "
+"copyrights and credits. Here's the list of shortcodes available for use in "
+"%sCustom Footer Copyrights%s textarea:"
+msgstr ""
+
+#: admin/gfb-admin.php:52
+#, php-format
+msgid "Displays the value of %sBrand Name%s setting."
+msgstr ""
+
+#: admin/gfb-admin.php:52
+#, php-format
+msgid "Displays the value of %sCopyright Duration%s setting."
+msgstr ""
+
+#: admin/gfb-admin.php:52
+#, php-format
+msgid ""
+"Displays the selected page as set in %sPrivacy Policy page%s option. Use the "
+"%stext%s attribute to display custom text for the link to the selected page. "
+"Defaults to %sPrivacy Policy%s."
+msgstr ""
+
+#: admin/gfb-admin.php:52
+#, php-format
+msgid ""
+"Displays the selected page as set in %sDisclaimer page%s option. Use the "
+"%stext%s attribute to display custom text for the link to selected page. "
+"Defaults to %sDisclaimer%s."
+msgstr ""
+
+#: admin/gfb-admin.php:52
+msgid ""
+"Displays the affiliate link for Genesis as set in <em>Genesis Affiliate "
+"Link</em> option."
+msgstr ""
+
+#: admin/gfb-admin.php:56
+msgid "Additional Information"
+msgstr ""
+
+#: admin/gfb-admin.php:56
+msgid "WordPress.Org Forums"
+msgstr ""
+
+#: admin/gfb-admin.php:56
+msgid "Support Forums"
+msgstr ""
+
+#: admin/gfb-admin.php:56
+msgid "Contact the Developer"
+msgstr ""
+
+#: admin/gfb-admin.php:62
+msgid "Footer Copyright Customizer"
+msgstr ""
+
+#: admin/gfb-admin.php:64
+msgid "Help and Support"
+msgstr ""
+
+#: admin/gfb-admin.php:66
+msgid "Genesis Child Themes By Binary Turf"
+msgstr ""
+
+#: admin/gfb-admin.php:149
+msgid "Brand Name"
+msgstr ""
+
+#: admin/gfb-admin.php:150
+msgid ""
+"Enter brand name that will show up in footer credits. Site title is used by "
+"default."
+msgstr ""
+
+#: admin/gfb-admin.php:155
+msgid "Brand Name: "
+msgstr ""
+
+#: admin/gfb-admin.php:168
+msgid "Copyright Duration "
+msgstr ""
+
+#: admin/gfb-admin.php:169
+msgid ""
+"Please select a custom year for copyright notice. Current year is used by "
+"default. You can also specify the from - to years by checking the from - to "
+"box below. Years valid from 19** to 20**."
+msgstr ""
+
+#: admin/gfb-admin.php:174
+msgid "Use current year?"
+msgstr ""
+
+#: admin/gfb-admin.php:186
+msgid "Enter the year: "
+msgstr ""
+
+#: admin/gfb-admin.php:199
+msgid "Enter the year(s): "
+msgstr ""
+
+#: admin/gfb-admin.php:213
+#, php-format
+msgid "Use %sfrom - to%s format? "
+msgstr ""
+
+#: admin/gfb-admin.php:227
+msgid "Privacy Policy Page"
+msgstr ""
+
+#: admin/gfb-admin.php:228
+msgid ""
+"Select a page below to be used as the Privacy Policy page in the footer "
+"information."
+msgstr ""
+
+#: admin/gfb-admin.php:236 admin/gfb-admin.php:255
+msgid "Select a page: "
+msgstr ""
+
+#: admin/gfb-admin.php:239
+#, php-format
+msgid "%1$s Select %1$s"
+msgstr ""
+
+#: admin/gfb-admin.php:249
+msgid "Disclaimer Page"
+msgstr ""
+
+#: admin/gfb-admin.php:250
+msgid ""
+"Select a page below to be used as the Disclaimer page in the footer "
+"information."
+msgstr ""
+
+#: admin/gfb-admin.php:258
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: admin/gfb-admin.php:268
+msgid "Footer Menu"
+msgstr ""
+
+#: admin/gfb-admin.php:269
+#, php-format
+msgid ""
+"With this option enabled, Genesis Footer Builder allows you to set-up a "
+"footer menu and output it in the footer. This can come handy if you want to "
+"insert some useful links like Home, About Us, Contact Us, Sitemap etc. "
+"Enable this option and save the settings. Then you can go to %sMenus page%s, "
+"create a new menu or select an existing menu and assign %s location."
+msgstr ""
+
+#: admin/gfb-admin.php:270
+msgid "*Note: Only the first level menu-items will be displayed."
+msgstr ""
+
+#: admin/gfb-admin.php:275
+msgid "Register and insert Footer Menu? "
+msgstr ""
+
+#: admin/gfb-admin.php:288
+msgid "Genesis Affiliate Link"
+msgstr ""
+
+#: admin/gfb-admin.php:289
+msgid ""
+"Use this option to set your own Genesis affiliate link in the footer credits "
+"text."
+msgstr ""
+
+#: admin/gfb-admin.php:294
+msgid "Enter the Genesis affiliate link:"
+msgstr ""
+
+#: admin/gfb-admin.php:310
+msgid "Custom Footer Copyrights"
+msgstr ""
+
+#: admin/gfb-admin.php:311
+#, php-format
+msgid ""
+"You can build your own custom credits text below. This field allows you to "
+"use HTML tags, entities, Genesis footer shortcodes or any other shortcodes. "
+"Additionally, the plugin provides the following shortcodes to customize the "
+"output:%1$sDisplays the value of %7$sBrand Name%8$s option as set above."
+"%2$sDisplays the value of %7$sCopyright Duration%8$s option as set above."
+"%3$sDisplays the selected page as set in %7$sPrivacy Policy page%8$s option "
+"above. Text for the link can be customized using the %9$stext%10$s attribute."
+"%4$sDisplays the selected page as set in <em>Disclaimer page</em> option "
+"above. Text for the link can be customized using the %9$stext%10$s attribute."
+"%5$sDisplays the Genesis affiliate link as set in the %7$sGenesis Affiliate "
+"Link%8$s option above.%6$s"
+msgstr ""
+
+#: admin/gfb-admin.php:329
+#, php-format
+msgid "%sUsage Example:%s"
+msgstr ""
+
+#: admin/gfb-admin.php:338
+#, php-format
+msgid "%sPreview:%s"
+msgstr ""
+
+#: admin/gfb-admin.php:354
+msgid "For Genesis Footer Builder support, see:"
+msgstr ""
+
+#: admin/gfb-admin.php:356
+#, php-format
+msgid "%sWordPress.Org Forums%s"
+msgstr ""
+
+#: admin/gfb-admin.php:357
+#, php-format
+msgid "%sSupport Forums%s"
+msgstr ""
+
+#: admin/gfb-admin.php:358
+#, php-format
+msgid "%sContact the Developer%s"
+msgstr ""
+
+#: admin/gfb-admin.php:359
+#, php-format
+msgid "Genesis plugin by %sBinaryTurf.Com%s"
+msgstr ""
+
+#: admin/gfb-admin.php:377
+msgid "View All Themes"
+msgstr ""
+
+#: admin/gfb-functions.php:78 admin/gfb-functions.php:93
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: admin/gfb-functions.php:102
+msgid "Powered By Genesis"
+msgstr ""
+
+#: admin/gfb-functions.php:102
+msgid "Genesis Framework"
+msgstr ""
+
+#: admin/gfb-functions.php:182
+#, php-format
+msgid "Copyright %s %s All rights reserved."
+msgstr ""
+
+#: admin/gfb-functions.php:189 admin/gfb-functions.php:196
+#, php-format
+msgid "Copyright %s %s All rights reserved. %s"
+msgstr ""
+
+#: admin/gfb-functions.php:201
+#, php-format
+msgid "Copyright %s %s All rights reserved. %s %s"
+msgstr ""
+
+#: genesis-footer-builder.php:63
+#, php-format
+msgid ""
+"%s requires %sGenesis Framework%s to be installed and activated. Please "
+"install Genesis as the parent theme to use Genesis Footer Builder.%sIf "
+"Genesis Framework / Genesis child theme is already installed, go to %sThemes "
+"page%s and activate it.%s&larr; Return to Plugins page%sGo to Themes page "
+"&rarr;%s"
+msgstr ""
+
+#: genesis-footer-builder.php:78
+#, php-format
+msgid ""
+"%s requires WordPress version %s and Genesis version %s or greater. Please "
+"update to the latest version and try again.%s&larr; Return to Plugins page"
+"%sGo to Themes page &rarr;%s"
+msgstr ""
+
+#: genesis-footer-builder.php:93
+#, php-format
+msgid ""
+"%s plugin requires %sGenesis Framework%s to be installed and activated. "
+"Please install Genesis as the parent theme to use %s.%sThe plugin will now "
+"be deactivated.%s&larr; Return to Plugins page%sGo to Themes page &rarr;%s"
+msgstr ""

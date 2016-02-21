@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Product Countdown\n"
+"POT-Creation-Date: 2015-06-26 17:46+0100\n"
+"PO-Revision-Date: 2015-06-26 17:47+0100\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../class.yith-wc-product-countdown.php:162
+#: ../class.yith-wc-product-countdown.php:168
+msgid "General"
+msgstr ""
+
+#: ../class.yith-wc-product-countdown.php:163
+msgid "Customization"
+msgstr ""
+
+#: ../class.yith-wc-product-countdown.php:164
+msgid "Bulk Operations"
+msgstr ""
+
+#: ../class.yith-wc-product-countdown.php:165
+msgid "Top/Bottom Countdown bar"
+msgstr ""
+
+#: ../class.yith-wc-product-countdown.php:169
+#: ../class.yith-wc-product-countdown.php:413
+msgid "Premium Version"
+msgstr ""
+
+#: ../class.yith-wc-product-countdown.php:175
+#: ../class.yith-wc-product-countdown.php:176
+#: ../class.yith-wc-product-countdown.php:227
+msgid "Product Countdown"
+msgstr ""
+
+#: ../class.yith-wc-product-countdown.php:410
+msgid "Settings"
+msgstr ""
+
+#: ../class.yith-wc-product-countdown.php:440
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../init.php:23
+msgid ""
+"You can't activate the free version of YITH WooCommerce Product Countdown "
+"while you are using the premium one."
+msgstr ""
+
+#: ../init.php:31
+msgid ""
+"YITH WooCommerce Product Countdown is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: ../plugin-options/general-options.php:18
+msgid "General Settings"
+msgstr ""
+
+#: ../plugin-options/general-options.php:24
+msgid "Enable YITH WooCommerce Product Countdown"
+msgstr ""
+
+#: ../templates/admin/countdown-tab.php:23
+msgid "Enable "
+msgstr ""
+
+#: ../templates/admin/countdown-tab.php:24
+msgid "Enable YITH WooCommerce Product Countdown for this product"
+msgstr ""
+
+#: ../templates/admin/countdown-tab.php:36
+msgid "Sale Dates"
+msgstr ""
+
+#: ../templates/admin/countdown-tab.php:37
+msgid "From&hellip;"
+msgstr ""
+
+#: ../templates/admin/countdown-tab.php:38
+msgid "To&hellip;"
+msgstr ""
+
+#: ../templates/admin/countdown-tab.php:39
+msgid "The sale will end at the beginning of the set date."
+msgstr ""
+
+#: ../templates/admin/premium.php:239 ../templates/admin/premium.php:455
+#, php-format
+msgid ""
+"Upgrade to the %1$spremium version%2$s\n"
+"                         of %1$sYITH WooCommerce Product Countdown%2$s to "
+"benefit from all features!"
+msgstr ""
+
+#: ../templates/admin/premium.php:245 ../templates/admin/premium.php:461
+#, php-format
+msgid "%1$s UPGRADE %2$s %3$s to the premium version %2$s"
+msgstr ""
+
+#: ../templates/admin/premium.php:262
+msgid "Sale bar"
+msgstr ""
+
+#: ../templates/admin/premium.php:265
+#, php-format
+msgid ""
+"%1$sEncourage your users to purchase your products%2$s, make them want to "
+"have a rare good.\n"
+"                        Choose an initial number of completed sales and the "
+"amount of available products (affected by the WooCommerce “Manage stock”, if "
+"enabled),\n"
+"                        and for each sale the bar will increase its level, "
+"showing the remaining number of products.\n"
+"                    "
+msgstr ""
+
+#: ../templates/admin/premium.php:279
+msgid "Content"
+msgstr ""
+
+#: ../templates/admin/premium.php:283
+#, php-format
+msgid ""
+"With the related option, you can choose what you want to show in the box of "
+"the plugin: %1$sthe countdown and/or the progressing sale bar%2$s. A general "
+"option suitable for all products."
+msgstr ""
+
+#: ../templates/admin/premium.php:301
+msgid "Position"
+msgstr ""
+
+#: ../templates/admin/premium.php:305
+#, php-format
+msgid ""
+"You have %1$sdifferent options%2$s where you can place the countdown in the "
+"product detail page and in category page.\n"
+"                Before or after the title, between the tabs, or after the "
+"related products: these are only some of the solutions the plugin offers."
+msgstr ""
+
+#: ../templates/admin/premium.php:318
+msgid "What's next?"
+msgstr ""
+
+#: ../templates/admin/premium.php:321
+#, php-format
+msgid ""
+"What happens when the countdown ends? %1$sDon't worry, the plugin leaves "
+"nothing to chance.%2$s Go to the settings panel and set the related option:\n"
+"                choose if you want the product to be removed from the "
+"product catalogue, to stay visible but not purchasable,\n"
+"                 or if you want to simply remove the countdown box."
+msgstr ""
+
+#: ../templates/admin/premium.php:340
+msgid "Shortcode and widget"
+msgstr ""
+
+#: ../templates/admin/premium.php:344
+#, php-format
+msgid ""
+"With the premium version of the pugin, you can use a %1$sshortcode%2$s and a "
+"%1$swidget%2$s to add the products with a countdown in the pages and in the "
+"sidebars of your sites.\n"
+"                Set one or more product IDs and that's all!"
+msgstr ""
+
+#: ../templates/admin/premium.php:357
+msgid "Tailored texts"
+msgstr ""
+
+#: ../templates/admin/premium.php:361
+#, php-format
+msgid ""
+"A product, an expiration date, and a charming message that encourage users "
+"to purchase! Do not renounce to these details:\n"
+"                %1$scustomize the messages%2$s that the plugin show to users "
+"from the settings panel."
+msgstr ""
+
+#: ../templates/admin/premium.php:380
+msgid "3 different layouts"
+msgstr ""
+
+#: ../templates/admin/premium.php:384
+#, php-format
+msgid ""
+"Three different graphic styles for the countdown box of your shop products. "
+"Customize colors and use the instant preview to choose the %1$sperfect "
+"solution%2$s for your e-commerce."
+msgstr ""
+
+#: ../templates/admin/premium.php:396
+msgid "Product groups"
+msgstr ""
+
+#: ../templates/admin/premium.php:400
+msgid ""
+"A comfortable solution that can make you spare precious time for your work.\n"
+"                The plugin settings panel lets you configure %1&sdifferent "
+"countdowns for different product groups%2&s, without accessing to the "
+"product detail page."
+msgstr ""
+
+#: ../templates/admin/premium.php:419
+msgid "\"Top bar\" or \"bottom bar\"?"
+msgstr ""
+
+#: ../templates/admin/premium.php:423
+#, php-format
+msgid ""
+"A fixed bar that lets you highlight a product of your shop that has already "
+"a countdown.\n"
+"                Activate it, choose to display it in the top part of the "
+"bottom part of the page, and change style and texts: %1$syou will see it\n"
+"                in all the pages of your site%2$s, and your users won't miss "
+"it!"
+msgstr ""
+
+#: ../templates/admin/premium.php:437
+msgid " Pre-sale countdown"
+msgstr ""
+
+#: ../templates/admin/premium.php:441
+#, php-format
+msgid ""
+"%1$sAnnounce your products before the official release%2$s, before they are "
+"concretely on sale. Set a specific countdown\n"
+"                to let your users know when the product will be available. "
+"Remeber to always inform them!"
+msgstr ""
+
+#: ../templates/frontend/single-product-timer.php:40
+msgid "Countdown to sale"
+msgstr ""
+
+#: ../templates/frontend/single-product-timer.php:51
+msgid "Days"
+msgstr ""
+
+#: ../templates/frontend/single-product-timer.php:60
+msgid "Hours"
+msgstr ""
+
+#: ../templates/frontend/single-product-timer.php:69
+msgid "Minutes"
+msgstr ""
+
+#: ../templates/frontend/single-product-timer.php:78
+msgid "Seconds"
+msgstr ""

@@ -1,0 +1,133 @@
+# Copyright (C) 2012 SMTP
+# This file is distributed under the same license as the SMTP package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SMTP 1.1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/smtp\n"
+"POT-Creation-Date: 2012-06-11 21:49:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: smtp.php:35
+msgid "Please enable 'php_mycrypt' in PHP. It is needed to encrypt passwords."
+msgstr ""
+
+#: smtp.php:61 smtp.php:111
+msgid "SMTP Settings"
+msgstr ""
+
+#. #-#-#-#-#  smtp.pot (SMTP 1.1.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: smtp.php:61
+msgid "SMTP"
+msgstr ""
+
+#: smtp.php:70 smtp.php:145
+msgid "Settings"
+msgstr ""
+
+#: smtp.php:84
+msgid "SMTP Test"
+msgstr ""
+
+#: smtp.php:85
+msgid ""
+"If you received this email it means you have configured SMTP correctly on "
+"your Wordpress website."
+msgstr ""
+
+#: smtp.php:94
+msgid "Test Email Sent"
+msgstr ""
+
+#: smtp.php:95
+msgid "The test email was sent successfully!"
+msgstr ""
+
+#: smtp.php:102
+msgid "Send Error"
+msgstr ""
+
+#: smtp.php:103
+msgid ""
+"There was an error while trying to send the test email. Please check the "
+"connection details."
+msgstr ""
+
+#: smtp.php:117
+msgid "Save Changes"
+msgstr ""
+
+#: smtp.php:121
+msgid "Send a Test Email"
+msgstr ""
+
+#: smtp.php:122
+msgid "Enter an email address below to send a test message."
+msgstr ""
+
+#: smtp.php:126
+msgid "To:"
+msgstr ""
+
+#: smtp.php:133
+msgid "Send"
+msgstr ""
+
+#: smtp.php:146
+msgid "Host"
+msgstr ""
+
+#: smtp.php:147
+msgid "Encryption"
+msgstr ""
+
+#: smtp.php:148
+msgid "Username"
+msgstr ""
+
+#: smtp.php:149
+msgid "Password"
+msgstr ""
+
+#: smtp.php:153
+msgid "Please enter your SMTP connection details."
+msgstr ""
+
+#: smtp.php:160
+msgid "Port"
+msgstr ""
+
+#: smtp.php:168
+msgid "None"
+msgstr ""
+
+#: smtp.php:169
+msgid "SSL"
+msgstr ""
+
+#: smtp.php:170
+msgid "TLS"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://hel.io/wordpress/smtp/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allows you to configure and use a SMTP server (such as Gmail) for sending "
+"emails."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sorin Iclanzan"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://hel.io/"
+msgstr ""

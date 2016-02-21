@@ -1,0 +1,137 @@
+# Copyright (C) 2012 SMTP
+# This file is distributed under the same license as the SMTP package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SMTP 1.1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/smtp\n"
+"POT-Creation-Date: 2012-06-11 21:49:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-06-12 02:10+0300\n"
+"Last-Translator: Sergey Yakovlev <sadhooklay@gmail.com>\n"
+"Language-Team: Sergey Yakovlev <sadhooklay@gmail.com>\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /work/translates/tm\n"
+"X-Poedit-SearchPath-0: /work/translates/smtp\n"
+
+#: smtp.php:35
+msgid "Please enable 'php_mycrypt' in PHP. It is needed to encrypt passwords."
+msgstr "Пожалуйста, включите 'php_mycrypt' в PHP. Это необходимо для шифрования паролей."
+
+#: smtp.php:61
+#: smtp.php:111
+msgid "SMTP Settings"
+msgstr "Параметры SMTP"
+
+#. #-#-#-#-#  smtp.pot (SMTP 1.1.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: smtp.php:61
+msgid "SMTP"
+msgstr "SMTP"
+
+#: smtp.php:70
+#: smtp.php:145
+msgid "Settings"
+msgstr "Параметры"
+
+#: smtp.php:84
+msgid "SMTP Test"
+msgstr "Тест SMTP"
+
+#: smtp.php:85
+msgid "If you received this email it means you have configured SMTP correctly on your Wordpress website."
+msgstr "Если Вы получили это письмо, значит, вы правильно настроили SMTP на вашем Wordpress сайте."
+
+#: smtp.php:94
+msgid "Test Email Sent"
+msgstr "Тест отправки письма"
+
+#: smtp.php:95
+msgid "The test email was sent successfully!"
+msgstr "Тестовое письмо успешно отправлено!"
+
+#: smtp.php:102
+msgid "Send Error"
+msgstr "Ошибка отправки сообщения"
+
+#: smtp.php:103
+msgid "There was an error while trying to send the test email. Please check the connection details."
+msgstr "Произошла ошибка при попытке отправить тестовое письмо. Пожалуйста, проверьте параметры соединения."
+
+#: smtp.php:117
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: smtp.php:121
+msgid "Send a Test Email"
+msgstr "Отправка тестового письма"
+
+#: smtp.php:122
+msgid "Enter an email address below to send a test message."
+msgstr "Введите адрес электронной почты, на который должно быть отправлено тестовое письмо."
+
+#: smtp.php:126
+msgid "To:"
+msgstr "Кому:"
+
+#: smtp.php:133
+msgid "Send"
+msgstr "Отправить"
+
+#: smtp.php:146
+msgid "Host"
+msgstr "Хост"
+
+#: smtp.php:147
+msgid "Encryption"
+msgstr "Шифрование"
+
+#: smtp.php:148
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: smtp.php:149
+msgid "Password"
+msgstr "Пароль"
+
+#: smtp.php:153
+msgid "Please enter your SMTP connection details."
+msgstr "Пожалуйста введите ваши параметры соединения SMTP."
+
+#: smtp.php:160
+msgid "Port"
+msgstr "Порт"
+
+#: smtp.php:168
+msgid "None"
+msgstr "Нет"
+
+#: smtp.php:169
+msgid "SSL"
+msgstr "SSL"
+
+#: smtp.php:170
+msgid "TLS"
+msgstr "TLS"
+
+#. Plugin URI of the plugin/theme
+msgid "http://hel.io/wordpress/smtp/"
+msgstr "http://hel.io/wordpress/smtp/"
+
+#. Description of the plugin/theme
+msgid "Allows you to configure and use a SMTP server (such as Gmail) for sending emails."
+msgstr "Позволяет вам настроить и использовать SMTP сервер (например, Gmail) для отправки сообщений. "
+
+#. Author of the plugin/theme
+msgid "Sorin Iclanzan"
+msgstr "Sorin Iclanzan"
+
+#. Author URI of the plugin/theme
+msgid "http://hel.io/"
+msgstr "http://hel.io/"
+

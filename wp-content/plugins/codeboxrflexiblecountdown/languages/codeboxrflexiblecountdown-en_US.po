@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CBX Flexible CountDown v1.6.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-07 18:01:52+0000\n"
+"Last-Translator: codeboxr <info@codeboxr.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/classcodeboxrflexiblecountdownadmin.php:239
+#@ codeboxrflexiblecountdown
+msgid "CBX Flexible Countdown (CBFC)"
+msgstr ""
+
+#: admin/classcodeboxrflexiblecountdownadmin.php:240
+#@ codeboxrflexiblecountdown
+msgid "CBX Countdown Settings"
+msgstr ""
+
+#: admin/classcodeboxrflexiblecountdownadmin.php:266
+#@ codeboxrflexiblecountdown
+msgid "Settings"
+msgstr ""
+
+#: admin/includes/codeboxr-flexible-countdown-options.php:30
+#: codeboxrflexiblecountdownfunction.php:66
+#@ codeboxrflexiblecountdown
+msgid "General Settings"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: codeboxrflexiblecountdown.php:0
+#@ codeboxrflexiblecountdown
+msgid "CBX Flexible CountDown"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: codeboxrflexiblecountdown.php:0
+#: widget/cbfcwidget.php:0
+#@ codeboxrflexiblecountdown
+msgid "http://codeboxr.com/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: codeboxrflexiblecountdown.php:0
+#: widget/cbfcwidget.php:0
+#@ codeboxrflexiblecountdown
+msgid "An event countdown plugin"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: codeboxrflexiblecountdown.php:0
+#: widget/cbfcwidget.php:0
+#@ codeboxrflexiblecountdown
+msgid "Codeboxr"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: codeboxrflexiblecountdown.php:0
+#: widget/cbfcwidget.php:0
+#@ codeboxrflexiblecountdown
+msgid "1.6.3"
+msgstr ""
+
+#: codeboxrflexiblecountdownfunction.php:48
+#@ codeboxrflexiblecountdown
+msgid "Light Countdown"
+msgstr ""
+
+#: codeboxrflexiblecountdownfunction.php:95
+#@ codeboxrflexiblecountdown
+msgid "Choose countdown style"
+msgstr ""
+
+#: codeboxrflexiblecountdownfunction.php:103
+#@ codeboxrflexiblecountdown
+msgid "Launch Date"
+msgstr ""
+
+#: codeboxrflexiblecountdownfunction.php:110
+#@ codeboxrflexiblecountdown
+msgid "Launch Hour"
+msgstr ""
+
+#: codeboxrflexiblecountdownfunction.php:111
+#@ codeboxrflexiblecountdown
+msgid "Max value is 23"
+msgstr ""
+
+#: codeboxrflexiblecountdownfunction.php:120
+#@ codeboxrflexiblecountdown
+msgid "Launch Minutes"
+msgstr ""
+
+#: codeboxrflexiblecountdownfunction.php:121
+#@ codeboxrflexiblecountdown
+msgid "Max value is 59"
+msgstr ""
+
+#: codeboxrflexiblecountdownfunction.php:130
+#@ codeboxrflexiblecountdown
+msgid "Count Number Color"
+msgstr ""
+
+#: codeboxrflexiblecountdownfunction.php:137
+#@ codeboxrflexiblecountdown
+msgid "Count Number Color (On Responsive)"
+msgstr ""
+
+#: codeboxrflexiblecountdownfunction.php:144
+#: languages/tinymcelangs.php:35
+#@ codeboxrflexiblecountdown
+msgid "Count Number Background Color"
+msgstr ""
+
+#: codeboxrflexiblecountdownfunction.php:151
+#: languages/tinymcelangs.php:49
+#@ codeboxrflexiblecountdown
+msgid "Text Color"
+msgstr ""
+
+#: codeboxrflexiblecountdownfunction.php:158
+#: includes/codeboxr-flexible-countdown-options.php:97
+#@ codeboxrflexiblecountdown
+msgid "Text Color (On Responsive)"
+msgstr ""
+
+#: codeboxrflexiblecountdownfunction.php:165
+#: languages/tinymcelangs.php:53
+#@ codeboxrflexiblecountdown
+msgid "Text Background Color"
+msgstr ""
+
+#: includes/codeboxr-flexible-countdown-options.php:32
+#@ codeboxrflexiblecountdown
+msgid "Circular Countdown"
+msgstr ""
+
+#: includes/codeboxr-flexible-countdown-options.php:35
+#@ codeboxrflexiblecountdown
+msgid "KK Countdown"
+msgstr ""
+
+#: includes/codeboxr-flexible-countdown-options.php:58
+#@ codeboxrflexiblecountdown
+msgid "Circular Countdown Settings"
+msgstr ""
+
+#: includes/codeboxr-flexible-countdown-options.php:63
+#@ codeboxrflexiblecountdown
+msgid "KK Countdown Settings"
+msgstr ""
+
+#: includes/codeboxr-flexible-countdown-options.php:83
+#: languages/tinymcelangs.php:45
+#@ codeboxrflexiblecountdown
+msgid "Background Color"
+msgstr ""
+
+#: includes/codeboxr-flexible-countdown-options.php:90
+#@ codeboxrflexiblecountdown
+msgid "Count Number And Text Color"
+msgstr ""
+
+#: includes/codeboxr-flexible-countdown-options.php:104
+#: languages/tinymcelangs.php:37
+#@ codeboxrflexiblecountdown
+msgid "Seconds Border Color"
+msgstr ""
+
+#: includes/codeboxr-flexible-countdown-options.php:111
+#: languages/tinymcelangs.php:39
+#@ codeboxrflexiblecountdown
+msgid "Minutes Border Color"
+msgstr ""
+
+#: includes/codeboxr-flexible-countdown-options.php:118
+#: languages/tinymcelangs.php:41
+#@ codeboxrflexiblecountdown
+msgid "Hours Border Color"
+msgstr ""
+
+#: includes/codeboxr-flexible-countdown-options.php:125
+#: languages/tinymcelangs.php:43
+#@ codeboxrflexiblecountdown
+msgid "Days Border Color"
+msgstr ""
+
+#: includes/codeboxr-flexible-countdown-options.php:135
+#: languages/tinymcelangs.php:55
+#@ codeboxrflexiblecountdown
+msgid "Countdown Font Size"
+msgstr ""
+
+#: includes/codeboxr-flexible-countdown-options.php:142
+#: languages/tinymcelangs.php:57
+#@ codeboxrflexiblecountdown
+msgid "Countdown Number Color"
+msgstr ""
+
+#: includes/codeboxr-flexible-countdown-options.php:150
+#: languages/tinymcelangs.php:59
+#@ codeboxrflexiblecountdown
+msgid "Countdown Text Color"
+msgstr ""
+
+#: languages/tinymcelangs.php:22
+#@ codeboxrflexiblecountdown
+msgid "CBX Countdown Shortcode"
+msgstr ""
+
+#: languages/tinymcelangs.php:23
+#@ codeboxrflexiblecountdown
+msgid "Countdown Type"
+msgstr ""
+
+#: languages/tinymcelangs.php:24
+#@ codeboxrflexiblecountdown
+msgid "select countdown type"
+msgstr ""
+
+#: languages/tinymcelangs.php:25
+#@ codeboxrflexiblecountdown
+msgid "Date"
+msgstr ""
+
+#: languages/tinymcelangs.php:26
+#@ codeboxrflexiblecountdown
+msgid "date format: mm/dd/yyyy"
+msgstr ""
+
+#: languages/tinymcelangs.php:27
+#@ codeboxrflexiblecountdown
+msgid "Hour"
+msgstr ""
+
+#: languages/tinymcelangs.php:28
+#@ codeboxrflexiblecountdown
+msgid "max value is 23"
+msgstr ""
+
+#: languages/tinymcelangs.php:29
+#@ codeboxrflexiblecountdown
+msgid "Minute"
+msgstr ""
+
+#: languages/tinymcelangs.php:30
+#@ codeboxrflexiblecountdown
+msgid "max value is 59"
+msgstr ""
+
+#: languages/tinymcelangs.php:31
+#@ codeboxrflexiblecountdown
+msgid "Number Color"
+msgstr ""
+
+#: languages/tinymcelangs.php:32
+#@ codeboxrflexiblecountdown
+msgid "number color for light countdown"
+msgstr ""
+
+#: languages/tinymcelangs.php:33
+#@ codeboxrflexiblecountdown
+msgid "Number Color(On Responsive)"
+msgstr ""
+
+#: languages/tinymcelangs.php:34
+#@ codeboxrflexiblecountdown
+msgid "number color for light countdown(On Responsive)"
+msgstr ""
+
+#: languages/tinymcelangs.php:36
+#@ codeboxrflexiblecountdown
+msgid "number background color for light countdown"
+msgstr ""
+
+#: languages/tinymcelangs.php:38
+#@ codeboxrflexiblecountdown
+msgid "seconds border for circular countdown"
+msgstr ""
+
+#: languages/tinymcelangs.php:40
+#@ codeboxrflexiblecountdown
+msgid "minutes border for circular countdown"
+msgstr ""
+
+#: languages/tinymcelangs.php:42
+#@ codeboxrflexiblecountdown
+msgid "hours border for circular countdown"
+msgstr ""
+
+#: languages/tinymcelangs.php:44
+#@ codeboxrflexiblecountdown
+msgid "days border for circular countdown"
+msgstr ""
+
+#: languages/tinymcelangs.php:46
+#@ codeboxrflexiblecountdown
+msgid "background color for circular countdown"
+msgstr ""
+
+#: languages/tinymcelangs.php:47
+#@ codeboxrflexiblecountdown
+msgid "Number And Text Color(Default)"
+msgstr ""
+
+#: languages/tinymcelangs.php:48
+#@ codeboxrflexiblecountdown
+msgid "number and text color for circular countdown"
+msgstr ""
+
+#: languages/tinymcelangs.php:50
+#@ codeboxrflexiblecountdown
+msgid "text color for light and circular countdown"
+msgstr ""
+
+#: languages/tinymcelangs.php:51
+#@ codeboxrflexiblecountdown
+msgid "Text Color(On Responsive)"
+msgstr ""
+
+#: languages/tinymcelangs.php:52
+#@ codeboxrflexiblecountdown
+msgid "text color for light and circular countdown(On Responsive)"
+msgstr ""
+
+#: languages/tinymcelangs.php:54
+#@ codeboxrflexiblecountdown
+msgid "text background color for light countdown"
+msgstr ""
+
+#: languages/tinymcelangs.php:56
+#@ codeboxrflexiblecountdown
+msgid "font size for kk countdown"
+msgstr ""
+
+#: languages/tinymcelangs.php:58
+#@ codeboxrflexiblecountdown
+msgid "number color for kk countdown"
+msgstr ""
+
+#: languages/tinymcelangs.php:60
+#@ codeboxrflexiblecountdown
+msgid "text color for kk countdown"
+msgstr ""
+
+#: public/classcodeboxrflexiblecountdown.php:489
+#@ codeboxrflexiblecountdown
+msgid "day"
+msgstr ""
+
+#: public/classcodeboxrflexiblecountdown.php:490
+#@ codeboxrflexiblecountdown
+msgid "days"
+msgstr ""
+
+#: public/classcodeboxrflexiblecountdown.php:491
+#@ codeboxrflexiblecountdown
+msgid "h"
+msgstr ""
+
+#: public/classcodeboxrflexiblecountdown.php:492
+#@ codeboxrflexiblecountdown
+msgid "m"
+msgstr ""
+
+#: public/classcodeboxrflexiblecountdown.php:493
+#@ codeboxrflexiblecountdown
+msgid "s"
+msgstr ""
+
+#: public/includes/circular.php:41
+#: public/views/light-countdown.php:54
+#@ codeboxrflexiblecountdown
+msgid "Days"
+msgstr ""
+
+#: public/includes/circular.php:54
+#: public/views/light-countdown.php:67
+#@ codeboxrflexiblecountdown
+msgid "Hours"
+msgstr ""
+
+#: public/includes/circular.php:67
+#: public/views/light-countdown.php:80
+#@ codeboxrflexiblecountdown
+msgid "Minutes"
+msgstr ""
+
+#: public/includes/circular.php:80
+#: public/views/light-countdown.php:93
+#@ codeboxrflexiblecountdown
+msgid "Seconds"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: widget/cbfcwidget.php:0
+#@ codeboxrflexiblecountdown
+msgid "Codeboxr Flexible CountDown"
+msgstr ""
+
+#: widget/cbfcwidget.php:68
+#: widget/cbfcwidget.php:130
+#@ codeboxrflexiblecountdown
+msgid "Flexible Countdown"
+msgstr ""
+
+#: widget/cbfcwidget.php:71
+#@ codeboxrflexiblecountdown
+msgid "An event countdown for your site"
+msgstr ""
+
+#: widget/views/admin.php:17
+#@ codeboxrflexiblecountdown
+msgid "Title:"
+msgstr ""
+
+#: widget/views/admin.php:22
+#@ codeboxrflexiblecountdown
+msgid "Countdown Style:"
+msgstr ""
+
+#: widget/views/admin.php:31
+#@ codeboxrflexiblecountdown
+msgid "Launch Date:"
+msgstr ""
+
+#: widget/views/admin.php:36
+#@ codeboxrflexiblecountdown
+msgid "Launch Hour:"
+msgstr ""
+
+#: widget/views/admin.php:41
+#@ codeboxrflexiblecountdown
+msgid "Launch Minute:"
+msgstr ""
+

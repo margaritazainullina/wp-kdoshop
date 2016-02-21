@@ -1,0 +1,16 @@
+i.mce-i-cbfccountdown:before {
+    font-family: "dashicons";
+    /*content: "\f116";*/
+    content: "\f508";
+}
+
+/*
+.mce-window.mce-in {
+    top: 25% !important;
+    height: 50% !important;
+    overflow-y: overlay;
+}
+
+.mce-window .mce-window-head .mce-close {
+    right: 20px !important;
+}*/
