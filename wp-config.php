@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wp217');
+define('DB_NAME', 'wp');
 
 /** MySQL database username */
-define('DB_USER', 'wp217');
+define('DB_USER', 'adminiJwiql1');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'P(F-h22S5G');
+define('DB_PASSWORD', 'P(F-6Ix1G45QlgZl');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'wp-kdoshop.rhcloud.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
